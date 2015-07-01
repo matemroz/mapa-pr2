@@ -1,0 +1,1 @@
+System zarządzający dużą mapą. Umożliwia dodawanie nowych, modyfikowanie starych kawałków mapy, jednoczesne wyszukiwanie różnych dróg przez wielu użytkowników na raz.
